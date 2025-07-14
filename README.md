@@ -21,16 +21,6 @@ The following REQUIRED features are completed:
 - [X] Display at least three (3) pieces of data for each API entry retrieved
 - [X] A working Button requests a new API entry and updates the data displayed
 
-The following STRETCH features are implemented:
-
-- [ ] Add a query to the API request
-  - The query I added is **FILL IN HERE**
-- [ ] Build a UI to allow users to add that query
-
-The following EXTRA features are implemented:
-
-- [ ] List anything else that you added to improve the app!
-
 ## API Choice
 
 My chosen API for this project is **PokeAPI**.
